@@ -1,0 +1,149 @@
+"Any","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Sexe","Nombre"
+2015,1,"Ciutat Vella",1,"el Raval","Home",26130
+2015,1,"Ciutat Vella",2,"el Barri Gòtic","Home",7958
+2015,1,"Ciutat Vella",3,"la Barceloneta","Home",7492
+2015,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Home",11150
+2015,2,"Eixample",5,"el Fort Pienc","Home",14886
+2015,2,"Eixample",6,"la Sagrada Família","Home",23544
+2015,2,"Eixample",7,"la Dreta de l'Eixample","Home",20018
+2015,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Home",19330
+2015,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Home",26765
+2015,2,"Eixample",10,"Sant Antoni","Home",18084
+2015,3,"Sants-Montjuïc",11,"el Poble Sec","Home",19852
+2015,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Home",578
+2015,3,"Sants-Montjuïc",13,"la Marina de Port","Home",14657
+2015,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Home",4869
+2015,3,"Sants-Montjuïc",15,"Hostafrancs","Home",7578
+2015,3,"Sants-Montjuïc",16,"la Bordeta","Home",8725
+2015,3,"Sants-Montjuïc",17,"Sants - Badal","Home",11274
+2015,3,"Sants-Montjuïc",18,"Sants","Home",19317
+2015,4,"Les Corts",19,"les Corts","Home",21417
+2015,4,"Les Corts",20,"la Maternitat i Sant Ramon","Home",11123
+2015,4,"Les Corts",21,"Pedralbes","Home",5481
+2015,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Home",2272
+2015,5,"Sarrià-Sant Gervasi",23,"Sarrià","Home",11462
+2015,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Home",7760
+2015,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Home",11741
+2015,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Home",21180
+2015,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Home",13257
+2015,6,"Gràcia",28,"Vallcarca i els Penitents","Home",7223
+2015,6,"Gràcia",29,"el Coll","Home",3434
+2015,6,"Gràcia",30,"la Salut","Home",6071
+2015,6,"Gràcia",31,"la Vila de Gràcia","Home",23010
+2015,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Home",15596
+2015,7,"Horta-Guinardó",33,"el Baix Guinardó","Home",11740
+2015,7,"Horta-Guinardó",34,"Can Baró","Home",4235
+2015,7,"Horta-Guinardó",35,"el Guinardó","Home",16774
+2015,7,"Horta-Guinardó",36,"la Font d'en Fargues","Home",4491
+2015,7,"Horta-Guinardó",37,"el Carmel","Home",15081
+2015,7,"Horta-Guinardó",38,"la Teixonera","Home",5491
+2015,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Home",3123
+2015,7,"Horta-Guinardó",40,"Montbau","Home",2253
+2015,7,"Horta-Guinardó",41,"la Vall d'Hebron","Home",2649
+2015,7,"Horta-Guinardó",42,"la Clota","Home",293
+2015,7,"Horta-Guinardó",43,"Horta","Home",12530
+2015,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Home",11710
+2015,8,"Nou Barris",45,"Porta","Home",11520
+2015,8,"Nou Barris",46,"el Turó de la Peira","Home",7106
+2015,8,"Nou Barris",47,"Can Peguera","Home",1084
+2015,8,"Nou Barris",48,"la Guineueta","Home",7003
+2015,8,"Nou Barris",49,"Canyelles","Home",3325
+2015,8,"Nou Barris",50,"les Roquetes","Home",7489
+2015,8,"Nou Barris",51,"Verdun","Home",5674
+2015,8,"Nou Barris",52,"la Prosperitat","Home",12433
+2015,8,"Nou Barris",53,"la Trinitat Nova","Home",3517
+2015,8,"Nou Barris",54,"Torre Baró","Home",1415
+2015,8,"Nou Barris",55,"Ciutat Meridiana","Home",5058
+2015,8,"Nou Barris",56,"Vallbona","Home",666
+2015,9,"Sant Andreu",57,"la Trinitat Vella","Home",5324
+2015,9,"Sant Andreu",58,"Baró de Viver","Home",1215
+2015,9,"Sant Andreu",59,"el Bon Pastor","Home",6355
+2015,9,"Sant Andreu",60,"Sant Andreu","Home",26715
+2015,9,"Sant Andreu",61,"la Sagrera","Home",13562
+2015,9,"Sant Andreu",62,"el Congrés i els Indians","Home",6453
+2015,9,"Sant Andreu",63,"Navas","Home",10301
+2015,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Home",17932
+2015,10,"Sant Martí",65,"el Clot","Home",12916
+2015,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Home",7150
+2015,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Home",4555
+2015,10,"Sant Martí",68,"el Poblenou","Home",16348
+2015,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Home",6510
+2015,10,"Sant Martí",70,"el Besòs i el Maresme","Home",11701
+2015,10,"Sant Martí",71,"Provençals del Poblenou","Home",9803
+2015,10,"Sant Martí",72,"Sant Martí de Provençals","Home",12201
+2015,10,"Sant Martí",73,"la Verneda i la Pau","Home",13623
+2015,99,"No consta",99,"No consta","Home",0
+2015,1,"Ciutat Vella",1,"el Raval","Dona",21487
+2015,1,"Ciutat Vella",2,"el Barri Gòtic","Dona",7311
+2015,1,"Ciutat Vella",3,"la Barceloneta","Dona",7544
+2015,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Dona",11155
+2015,2,"Eixample",5,"el Fort Pienc","Dona",16759
+2015,2,"Eixample",6,"la Sagrada Família","Dona",27803
+2015,2,"Eixample",7,"la Dreta de l'Eixample","Dona",23326
+2015,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Dona",22366
+2015,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Dona",30946
+2015,2,"Eixample",10,"Sant Antoni","Dona",20164
+2015,3,"Sants-Montjuïc",11,"el Poble Sec","Dona",20365
+2015,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Dona",567
+2015,3,"Sants-Montjuïc",13,"la Marina de Port","Dona",15717
+2015,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Dona",5486
+2015,3,"Sants-Montjuïc",15,"Hostafrancs","Dona",8234
+2015,3,"Sants-Montjuïc",16,"la Bordeta","Dona",9705
+2015,3,"Sants-Montjuïc",17,"Sants - Badal","Dona",12811
+2015,3,"Sants-Montjuïc",18,"Sants","Dona",21572
+2015,4,"Les Corts",19,"les Corts","Dona",24669
+2015,4,"Les Corts",20,"la Maternitat i Sant Ramon","Dona",12722
+2015,4,"Les Corts",21,"Pedralbes","Dona",6282
+2015,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Dona",2363
+2015,5,"Sarrià-Sant Gervasi",23,"Sarrià","Dona",13152
+2015,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Dona",8864
+2015,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Dona",13770
+2015,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Dona",25788
+2015,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Dona",15892
+2015,6,"Gràcia",28,"Vallcarca i els Penitents","Dona",8285
+2015,6,"Gràcia",29,"el Coll","Dona",3890
+2015,6,"Gràcia",30,"la Salut","Dona",7142
+2015,6,"Gràcia",31,"la Vila de Gràcia","Dona",27574
+2015,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Dona",18451
+2015,7,"Horta-Guinardó",33,"el Baix Guinardó","Dona",13736
+2015,7,"Horta-Guinardó",34,"Can Baró","Dona",4703
+2015,7,"Horta-Guinardó",35,"el Guinardó","Dona",19299
+2015,7,"Horta-Guinardó",36,"la Font d'en Fargues","Dona",4952
+2015,7,"Horta-Guinardó",37,"el Carmel","Dona",16417
+2015,7,"Horta-Guinardó",38,"la Teixonera","Dona",5831
+2015,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Dona",3570
+2015,7,"Horta-Guinardó",40,"Montbau","Dona",2817
+2015,7,"Horta-Guinardó",41,"la Vall d'Hebron","Dona",2964
+2015,7,"Horta-Guinardó",42,"la Clota","Dona",275
+2015,7,"Horta-Guinardó",43,"Horta","Dona",14094
+2015,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Dona",13789
+2015,8,"Nou Barris",45,"Porta","Dona",13016
+2015,8,"Nou Barris",46,"el Turó de la Peira","Dona",8314
+2015,8,"Nou Barris",47,"Can Peguera","Dona",1183
+2015,8,"Nou Barris",48,"la Guineueta","Dona",8071
+2015,8,"Nou Barris",49,"Canyelles","Dona",3621
+2015,8,"Nou Barris",50,"les Roquetes","Dona",8034
+2015,8,"Nou Barris",51,"Verdun","Dona",6584
+2015,8,"Nou Barris",52,"la Prosperitat","Dona",13751
+2015,8,"Nou Barris",53,"la Trinitat Nova","Dona",3845
+2015,8,"Nou Barris",54,"Torre Baró","Dona",1413
+2015,8,"Nou Barris",55,"Ciutat Meridiana","Dona",5098
+2015,8,"Nou Barris",56,"Vallbona","Dona",685
+2015,9,"Sant Andreu",57,"la Trinitat Vella","Dona",4886
+2015,9,"Sant Andreu",58,"Baró de Viver","Dona",1267
+2015,9,"Sant Andreu",59,"el Bon Pastor","Dona",6300
+2015,9,"Sant Andreu",60,"Sant Andreu","Dona",29967
+2015,9,"Sant Andreu",61,"la Sagrera","Dona",15458
+2015,9,"Sant Andreu",62,"el Congrés i els Indians","Dona",7695
+2015,9,"Sant Andreu",63,"Navas","Dona",11809
+2015,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Dona",20270
+2015,10,"Sant Martí",65,"el Clot","Dona",14097
+2015,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Dona",7614
+2015,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Dona",4706
+2015,10,"Sant Martí",68,"el Poblenou","Dona",17231
+2015,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Dona",6842
+2015,10,"Sant Martí",70,"el Besòs i el Maresme","Dona",11325
+2015,10,"Sant Martí",71,"Provençals del Poblenou","Dona",10441
+2015,10,"Sant Martí",72,"Sant Martí de Provençals","Dona",13804
+2015,10,"Sant Martí",73,"la Verneda i la Pau","Dona",15055
+2015,99,"No consta",99,"No consta","Dona",1
