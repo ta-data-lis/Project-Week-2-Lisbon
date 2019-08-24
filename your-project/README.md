@@ -1,7 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*Mobility in Lisbon Metro Area*
+# Mobility in Lisbon Metro Area
 
 *By:
 Ana André
