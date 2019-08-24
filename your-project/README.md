@@ -66,10 +66,9 @@ We also applied pair programming.
 <a name="links"></a>
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Ana André Repository](https://github.com/Ana-Andre)
-[Inês Garcia Repository](https://github.com/Inrx)
-[Ana Sousa Repository](https://github.com/sofia-sousa) 
+[Ana André Repository](https://github.com/Ana-Andre)  
+[Inês Garcia Repository](https://github.com/Inrx)  
+[Ana Sousa Repository](https://github.com/sofia-sousa)  
 [Slides](https://www.canva.com/design/DADjUsukSg8/QX5Rxmwb8GWyI6XeTRQhvg/view?utm_content=DADjUsukSg8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)  
 [Trello](https://trello.com/b/C8h7IQZq) 
