@@ -29,8 +29,6 @@ These topics are:
 - Administration
 - Economics & business
 
-You have to choose one of them! We will cover all of them.
-
 Possible datasets you can use are suggested in `Dataset` section below.
 
 For additional datasets you can also check [Open Data Berlin](http://odis-berlin.de/) website and the [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/) website.
