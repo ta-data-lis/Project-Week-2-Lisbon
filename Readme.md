@@ -78,10 +78,10 @@ Your mentor will:
 - Check if you are following the tasks, your blockers, etc
 - Help/support you in specific questions.
 
-Your mentor is _not_ meant to:
+Your mentor is not meant to:
 
 - Know everything.
-- Be your manager. You have to be the responsible person to do the tasks!
+- Be your manager.
 
 <a name="schedule"></a>
 
