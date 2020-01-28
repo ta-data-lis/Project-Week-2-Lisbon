@@ -94,6 +94,7 @@ _Tuesday - Wednesday_
 - Do some brainstorming about data you could use to answer your questions.
 - Look for more data on the [Barcelona Open Data](https://opendata-ajuntament.barcelona.cat/en/) website, the [Catalonia Government](http://governobert.gencat.cat/ca/dades_obertes/) website, and the [Spanish Government](https://datos.gob.es/) website.
 - For additional datasets you can also check [Open Data Berlin](http://odis-berlin.de/) website and the [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/) website.
+- Get approval from your mentor and the LT before starting coding.
 
 _Wednesay_
 
