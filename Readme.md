@@ -18,9 +18,6 @@ DA January 2020
 ## Project Description
 This project intends to answer the question "Is there gender inequality in the job market in Singapore?"
 
-This topic was chosen due to it´s social relevance. Gender Equality is a topic of much concern for societies and companies everywhere.
-
-
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
