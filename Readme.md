@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Welcome to the Lisbon Cultural Offer Project!
+# Lisbon Cultural Offer Project
 
 This project was developed by [Ana Frias](https://github.com/anafrs), [Rute Correia](https://github.com/aariops) and [Tristan Piat](https://github.com/pengtianan) for the Ironhack Data Analysis bootcamp, January 2020.
 
@@ -8,7 +8,7 @@ Below you can find some information about the project and its context.
 
 ## Content
 
-- [Welcome to the Lisbon Cultural Offer Project!](#welcome-to-the-lisbon-cultural-offer-project)
+- [Lisbon Cultural Offer Project](#lisbon-cultural-offer-project)
   - [Content](#content)
   - [Project Description](#project-description)
   - [Project Goals](#project-goals)
@@ -19,7 +19,7 @@ Below you can find some information about the project and its context.
 
 ## Project Description
 
-_**Request**:In this project, you will do and present an analysis of your choosing on a topic related to Lisbon, Berlin or Barcelona._
+_Request:In this project, you will do and present an analysis of your choosing on a topic related to Lisbon, Berlin or Barcelona._
 
 **Delivered**: An overview of Lisbon's cultural offer. We focused on the events' categories, seasonality, most used venues and price barrier.
 
@@ -27,9 +27,9 @@ _**Request**:In this project, you will do and present an analysis of your choosi
 
 ## Project Goals
 
-_- Learn to propose interesting questions that can be answered with data._
-_- Explore/research the data available related to your topic._
-_- Perform a very simple analysis of your data and identify interesting insights._
+- _Learn to propose interesting questions that can be answered with data._
+- _Explore/research the data available related to your topic._
+- _Perform a very simple analysis of your data and identify interesting insights._
 
 **Our questions:**
 - What is the most popular type of event in Lisbon? _("most popular" meaning with most occurrences)_
@@ -41,9 +41,9 @@ _- Perform a very simple analysis of your data and identify interesting insights
 
 ## Requirements
 
-_-Usage of open data_
-_-City-level focus_
-_-No plotting was allowed_
+- _Usage of open data_
+- _City-level focus_
+- _No plotting was allowed_
 
 <a name="delivery"></a>
 
@@ -53,7 +53,7 @@ We compiled our data processing in the Jupyter Notebook in this repo.
 
 We used a [JSON file](https://agendalx.pt/wp-json/agendalx/v1/events/current) with all the entries of the [AgendaLX](https://agendalx.pt/) website, which is maintained and updated daily by Câmara Municipal de Lisboa _(Lisbon's City Council)_. This data is available under a [CC BY](https://creativecommons.org/licenses/by/4.0/) license.
 
-Dataset downloaded on January 29th 2020.
+Dataset downloaded on January 29th 2020
 
 
 
