@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*[Keren Vasconcelos, Paola Pelaéz, Rita Pereira]*
 
 *[Your Cohort, Campus & Date]*
 
@@ -16,7 +16,7 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show.
 
 <a name="hypotheses-/-questions"></a>
 
@@ -28,7 +28,7 @@ What are the questions you would like to answer with your project? Write your hy
 ## Dataset
 Where did you get your data? What dataset did you use or did you build your own datset. Provide links to the data if available.
 
-[Dataset]() 
+[Dataset]()
 
 <a name="workflow"></a>
 
@@ -43,8 +43,8 @@ How did you organize yourself? Did you use any tools?
 <a name="links"></a>
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
+Include the links to your repository, slides and trello. Feel free to include any other links associated to your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/Kerenvascs/Project-Week-2-Lisbon)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/q4hfMDYs/data-pipeline-project)  
