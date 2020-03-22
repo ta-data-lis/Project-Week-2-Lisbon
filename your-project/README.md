@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Lisbon Airbnb Analysis
+*[Keren Vasconcelos, Paola Pelaéz, Rita Pereira]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Part Time - February - 2020, Lisbon & 2020/03/18]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,38 +13,40 @@
 - [Organization](#organization)
 - [Links](#links)
 
-<a name="project-description"></a>
-
-## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
-
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-What are the questions you would like to answer with your project? Write your hypotheses here.
+- Which is the neighbourhood that gives you the best value for money in an Airbnb in Lisbon?.
+- Which are the most expensive and the cheapest neighborhoods?
+- Which is the neighbourhood with best rated Airbnb's in Lisbon?
+- Which is the best neighborhood for each kind of traveler: 3 personas (Family, Business and Backpacker) ?
 
 <a name="dataset"></a>
 
 ## Dataset
-Where did you get your data? What dataset did you use or did you build your own datset. Provide links to the data if available.
+The data covers all Lisbon listing details, customer reviews and associated geolocation information collected on 28 January,
+2020 and is published in a form of csv file. We used the listing_details.csv - Detailed Listings data for Lisbon (25.002 rows, 106 columns).
 
-[Dataset]() 
+[InsideAirbnb](http://insideairbnb.com/)
 
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
+1. Search a dataset
+2. Define business questions
+3. Braimstorm about data and what we could use to answer your questions
+4. Data cleaning
+5. Data manipulation, aggregations and calculations
+6. Create travellers personas
 
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+Trello, Slack, Canva and Zoom.
 
 <a name="links"></a>
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
-
-[Repository](https://github.com/)  
+[Repository](https://github.com/Kerenvascs/Project-Week-2-Lisbon)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/q4hfMDYs/data-pipeline-project)  
